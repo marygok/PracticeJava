@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="29ef798d-437e-4738-ae6f-5fe6439c7e38" name="Changes" comment="." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2L6rwkBaFoYK69K4SUuRN9TOcrH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.FrequencyOfChar">
+    <configuration name="Day" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day12_practices.Day" />
+      <module name="Self_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day12_practices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DaysInMonth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day12_practices.DaysInMonth" />
+      <module name="Self_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day12_practices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FrequencyOfChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practicetask.FrequencyOfChar" />
+      <module name="Self_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practicetask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practicetask.RemoveDuplicates" />
+      <module name="Self_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practicetask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseNegative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day20_practices.ReverseNegative" />
+      <module name="Self_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day20_practices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FrequencyOfChar" />
+        <item itemvalue="Application.RemoveDuplicates" />
+        <item itemvalue="Application.ReverseNegative" />
+        <item itemvalue="Application.Day" />
+        <item itemvalue="Application.DaysInMonth" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29ef798d-437e-4738-ae6f-5fe6439c7e38" name="Changes" comment="" />
+      <created>1675202616162</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675202616162</updated>
+      <workItem from="1675202617438" duration="166000" />
+      <workItem from="1675202807854" duration="18000" />
+      <workItem from="1675203004176" duration="186000" />
+      <workItem from="1675203198536" duration="15000" />
+      <workItem from="1675203263686" duration="2422000" />
+      <workItem from="1675302823578" duration="93000" />
+      <workItem from="1675309388944" duration="6390000" />
+      <workItem from="1675316221079" duration="811000" />
+      <workItem from="1675397802924" duration="1763000" />
+      <workItem from="1675562122806" duration="5306000" />
+      <workItem from="1675567996471" duration="1518000" />
+      <workItem from="1675794230524" duration="627000" />
+      <workItem from="1675802386514" duration="1089000" />
+      <workItem from="1676157596358" duration="169000" />
+      <workItem from="1676160717487" duration="962000" />
+      <workItem from="1676162352793" duration="419000" />
+      <workItem from="1676224004380" duration="56000" />
+      <workItem from="1676224079595" duration="399000" />
+      <workItem from="1676418803885" duration="28000" />
+      <workItem from="1677254348736" duration="94000" />
+      <workItem from="1677723689378" duration="1474000" />
+      <workItem from="1677725207704" duration="2581000" />
+      <workItem from="1677728153051" duration="451000" />
+      <workItem from="1677784612019" duration="264000" />
+      <workItem from="1677784926690" duration="1994000" />
+      <workItem from="1677884813466" duration="5889000" />
+      <workItem from="1677974927512" duration="3721000" />
+      <workItem from="1678041536948" duration="8709000" />
+      <workItem from="1678721596856" duration="1360000" />
+      <workItem from="1678816689070" duration="30000" />
+      <workItem from="1678833844359" duration="606000" />
+      <workItem from="1678842329552" duration="2490000" />
+      <workItem from="1679169191972" duration="9394000" />
+      <workItem from="1679237087779" duration="8862000" />
+      <workItem from="1679338895761" duration="685000" />
+      <workItem from="1679604533673" duration="128000" />
+      <workItem from="1679758569182" duration="598000" />
+      <workItem from="1679765072203" duration="20000" />
+      <workItem from="1679773912809" duration="12286000" />
+      <workItem from="1679802230608" duration="321000" />
+      <workItem from="1679842879937" duration="120000" />
+      <workItem from="1680203864044" duration="5363000" />
+      <workItem from="1680402760032" duration="74000" />
+      <workItem from="1680540215494" duration="9043000" />
+      <workItem from="1680570477207" duration="69000" />
+      <workItem from="1680636058148" duration="857000" />
+      <workItem from="1680716635588" duration="2407000" />
+      <workItem from="1680884347563" duration="6224000" />
+      <workItem from="1680890938073" duration="32000" />
+      <workItem from="1680891343407" duration="2031000" />
+      <workItem from="1681060341314" duration="3996000" />
+      <workItem from="1681075593344" duration="2441000" />
+      <workItem from="1681144754543" duration="19000" />
+      <workItem from="1681148114315" duration="12348000" />
+      <workItem from="1681414841879" duration="18915000" />
+      <workItem from="1681590907705" duration="141000" />
+      <workItem from="1681749141672" duration="5303000" />
+      <workItem from="1682345324764" duration="3421000" />
+      <workItem from="1682441852681" duration="721000" />
+      <workItem from="1683127653249" duration="4231000" />
+      <workItem from="1683743750105" duration="61000" />
+      <workItem from="1683778131974" duration="2830000" />
+      <workItem from="1683919021399" duration="1016000" />
+      <workItem from="1684792132011" duration="5086000" />
+      <workItem from="1684976893587" duration="19654000" />
+      <workItem from="1685641833444" duration="703000" />
+      <workItem from="1685647731571" duration="7179000" />
+      <workItem from="1686248952329" duration="3153000" />
+      <workItem from="1686322233422" duration="735000" />
+      <workItem from="1686847459029" duration="9994000" />
+    </task>
+    <task id="LOCAL-00001" summary=".">
+      <created>1686861530350</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686861530350</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
+  </component>
+</project>
